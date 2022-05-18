@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>ANALISIS PROSES BISNIS</title>
+<link href="http://fonts.googleapis.com/css?family=Raleway:700,300" rel="stylesheet"
+        type="text/css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/prettify.css">
+<style>
+header , .pull-right a , .docs-nav a:hover, .docs-nav .active, span.sub_heading {background:#222;}
+a,nav a:active,a:active{color:#222;}
+b{font-size: 13px;}
+body{overflow-x: hidden;}
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+<header>
+  <div class="container">
+    <h2 class="lone-header">Cantika Juandy Putri Katiandagho-20000016146</h2>
+  </div>
+</header>
+<section>
+  <div class="container">
+    <ul class="docs-nav">
+      <li><strong>Getting Started</strong></li>
+      <li><a href="#welcome">HOME</a></li>
+      <li><a href="#Proses Bisnis">Proses Bisnis</a></li>
+      <li><a href="#label-post">About</a></li>
+      <li><a href="#footer">Analisis Permasalahan</a></li>
+    </ul>
+    <div class="docs-content">
+      <h2 class="entry-title"> Getting Started</h2>
+      <h3 id="welcome"></h3>
+	  <img src="assets/img/kampus.jpg" style="border: 1px solid #ddd;text-align: center;margin: 0 auto;box-shadow: 0px 5px 8px #ddd;"/>
+
+        <li>Nama 	 : Cantika Juandy Putri Katiandagho</li>
+        <li>NIM	 	 : 2000016146</li>
+        <li>Prodi	 : Sistem Informasi</li>
+		<li>Fakultas : Sains dan Teknologi Terapan </li>
+
+      <h3 id="features">Proses Bisnis</h3>
+      <ul>
+      
+      <h3 id="Proses Bisnis"></h3>
+      <p> A.	Proses Bisnis Utama
+	  <br>
+Waroeng Makan The Cumlaude merupakan sebuah warung makan dimana konsep yang diterapkan pada The Cumlaude sendiri ini sangat modern atau mengikuti perkembangan zaman. Waroeng Makan The Cumlaude ini beralamat di Jl. Tritunggal No.2, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta. 
+Waroeng Makan The Cumlaude ini memiliki jam operasi 18.00-23.59, The Cumlaude sendiri memiliki seorang pemilik yang bernama Bapak Buqorih. Pada Waroeng Makan The Cumlaude ini sendiri memili sebuah proses bisnis utama yaitu:
+<br>
+-	Jual beli makanan dan minuman
+<br>
+Pada proses bisnis pada Waroeng The Cumlaude ini terdapat pelanggan yang melakukan pemesanan dan organisasi sebagai penyedia product.
+
+<br>
+B.	Proses Bisnis Pendukung
+<br>
+		Waroeng Makan The Cumlaude memiliki proses bisnis pendukung yang berjalan untuk mendukung kegiatan atau proses bisnis utama agar dapat berjalan, Proses bisnis pendukung yang berjalan adalah sebagai berikut : 
+<br>
+-	Sarana dan prasarana
+<br>
+Pada proses bisnis ini terdapat sistem pendukung pada kafe dimana nanti akan menjadi bagian penting dalam proses bisnis utama yaitu tempat dan alat.
+-	Manajement SDM
+<br>
+Merupakan sebuah proses bisnis pendukung dimana terdapat sebuah Manajemen SDM yang mengelola berjalannya proses bisnis utama agar nanti dapat berjalan dengan baik, dan menjadi bagian penting dari proses bisnis yang akan dijalani. Didalamnya terdapat beberapa peran, yaitu :
+<br>
+a.	Pramusaji
+<br>
+Pramusaji merupakan orang yang bertugas atau bekerja di bidang penyajian makanan dan minuman. Pramusaji bertugas membuat pesanan pelanggan yang telah dicatat oleh bagian waiters, dan kemudian pesananan yang sudah selesai akan diberikan ke pelanggan melalui pramusaji.
+<br>
+b.	Waiters
+<br>
+Waiters adalah  seseorang yang bekerja untuk melayani para tamu yang datang ke restoran atau kafe mulai saat pertama datang, sampai dengan tamu tersebut selesai makan. Waiters sendiri bertugas menerima dan mencatat pesanan dari pelanggan, mencatat keuangan dan memberikan daftar pesanan kepada Pramusaji. 
+<br>
+-	Keuangan
+<br>
+Pada bagian keuangan SDM (Waiters) yang bertugas mencatat pemesanan pelangan dan mencatat keuangan yang ada. Dengan adanya keuangan pelanggan dapat melihat daftar menu dan harga product, serta akan mendapatkan struk bayar.
+<br>
+-	Promosi
+<br>
+Selanjutnya adalah Promosi, dimana hal ini dilakukan untuk mencapai target pelanggan yang diinginkan. Nantinya akan terdapat alamat dari Waroeng The Cumlaude. 
+<br>
+•	Alamat : Jl. Tritunggal No.2, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162
+
+<br>
+•	Link maps : https://goo.gl/maps/xhdQCrAUCpUvDxDV6
+p>
+	  <p class="note" style="background:#34495e;">Gambar Proses Bisnis Waroeng The Cumlaude</p>
+	  <ul>
+	  <li><b>Proses Bisnis</b></li>
+	  <li><img src="assets/img/proses.png"></li>
+	  <li><b>Alur Proses Bisnis</b></li>
+	  <li><img src="assets/img/alur.png"></li>
+	  </ul>
+      
+	  
+	<h3 id="label-post">About</h3> 
+        <p>Proses bisnis adalah sekumpulan aktivitas mewujudkan tujuan bisnis mulai
+dari input, kemudian menambahkan nilai (value) untuk mendapatkan output berupa
+hasil yang diinginkan konsumen, dengan definisi yang jelas tentang awal proses,
+akhir proses, input dan output.
+Sekumpulan rantai aktivitas untuk menghasilkan produk barang ataupun
+jasa dari awal proses masuknya input, kemudian proses sampai keluar output, dan
+di setiap mata rantai aktivitas terdapat penambahan nilai disebut rantai nilai (value
+chain). Proses bisnis merupakan gambaran detail dari rantai nilai. Suatu proses
+bisnis dapat dipecah menjadi beberapa subproses dengan atributnya sendiri yang
+berkontribusi mencapai tujuan dari superprosesnya. Di dalam rantai nilai terdapat
+aktivitas utama yang merupakan aktivitas yang berkaitan langsung dengan
+produksi, dan aktivitas pendukung.
+Organisasi bisnis berupaya melakukan perbaikan proses bisnis untuk
+meningkatkan efisiensi prosesnya. Upaya perbaikannya membutuhkan suatu
+metode dan model yang mampu menggambarkannya dengan baik, sehingga dapat
+dilakukan penilaian atas proses yang sedang berjalan. Proses bisnis perusahaan
+dapat menjadi sumber kompetitif jika dapat memungkinkan perusahaan untuk
+berinovasi atau untuk menjalankannya dengan lebih baik dari pesaingnya. </p>
+	  <hr>
+		
+     <h3 id="footer">Analisis Permasalahan</h3>
+	 <img src="assets/img/permasalahan.png"/>
+	 <p>Analsis Permasalahan yang berada pada Waroeng The Cumlaude</p>
+		
+ </ol>
+
+
+<footer>
+  <div class="">
+    <p> UTS ANALISIS PROSES BISNIS</p>
+  </div>
+</footer>
+</div>
+<script src="assets/js/jquery.min.js"></script> 
+ 
+<script type="text/javascript" src="assets/js/prettify/prettify.js"></script> 
+<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?lang=css&skin=sunburst"></script>
+<script src="assets/js/layout.js"></script>
+ <script src="assets/js/jquery.localscroll-1.2.7.js" type="text/javascript"></script>
+ <script src="assets/js/jquery.scrollTo-1.4.3.1.js" type="text/javascript"></script>
+
+</body>
+</html>
+
